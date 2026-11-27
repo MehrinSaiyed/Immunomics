@@ -29,6 +29,7 @@ so they are recreated by running the pipeline.
 | 05-08 | Merge, QC filtering, normalization, PCA checks |
 | 09-12 | Antigen metadata check, doublets, clustering |
 | 13-15 | Cluster composition, extra markers, cell state labels |
+|16 | Harmony Check |
 | 17 | Donor-level cell-state composition |
 | 18-20, 23 | Q1: pseudobulk, survival score, robustness |
 | 21, 22, 24 | Q2: TCR clones, spread across states, clonality |
